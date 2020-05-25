@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/To-do-App-using-React-Hooks/static/css/main.1d38e719.chunk.css",
+    "main.js": "/To-do-App-using-React-Hooks/static/js/main.2e6d488d.chunk.js",
+    "main.js.map": "/To-do-App-using-React-Hooks/static/js/main.2e6d488d.chunk.js.map",
+    "runtime-main.js": "/To-do-App-using-React-Hooks/static/js/runtime-main.846da5b6.js",
+    "runtime-main.js.map": "/To-do-App-using-React-Hooks/static/js/runtime-main.846da5b6.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/To-do-App-using-React-Hooks/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.9db758e9.chunk.js": "/To-do-App-using-React-Hooks/static/js/2.9db758e9.chunk.js",
+    "static/js/2.9db758e9.chunk.js.map": "/To-do-App-using-React-Hooks/static/js/2.9db758e9.chunk.js.map",
+    "index.html": "/To-do-App-using-React-Hooks/index.html",
+    "precache-manifest.738a9fb940167922b9cd2bf7370380bd.js": "/To-do-App-using-React-Hooks/precache-manifest.738a9fb940167922b9cd2bf7370380bd.js",
+    "service-worker.js": "/To-do-App-using-React-Hooks/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/To-do-App-using-React-Hooks/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.1d38e719.chunk.css.map": "/To-do-App-using-React-Hooks/static/css/main.1d38e719.chunk.css.map",
+    "static/js/2.9db758e9.chunk.js.LICENSE.txt": "/To-do-App-using-React-Hooks/static/js/2.9db758e9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.846da5b6.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.9db758e9.chunk.js",
+    "static/css/main.1d38e719.chunk.css",
+    "static/js/main.2e6d488d.chunk.js"
+  ]
+}
